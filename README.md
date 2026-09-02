@@ -10,6 +10,6 @@ Contains .csv files with the individual question responses (question_responses.c
 ## Additional Figures
 Some helpful images not included natively in the original Latex paper:
 
-!(images/math_qwen_clusters_plot.png)
-!(images/reading_qwen_clusters_plot.png)
-!(images/science_qwen_clusters_plot.png)
+![Math t-SNE Plot](images/math_qwen_clusters_plot.png)
+![Reading t-SNE Plot](images/reading_qwen_clusters_plot.png)
+![Science t-SNE Plot](images/science_qwen_clusters_plot.png)
